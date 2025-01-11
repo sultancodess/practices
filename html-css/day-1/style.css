@@ -1,0 +1,19 @@
+*{
+    padding :0;
+    margin:0;
+    box-sizing: border-box;
+}
+.cont{
+    background-color: greenyellow;
+    height: 400px;
+    width: 400px;
+    padding: 30px;
+    margin: 30px;
+}
+.cont2{
+    background-color: rgb(84, 120, 227);
+    height: 400px;
+    width: 400px;
+    padding: 30px;
+    margin: 30px;
+}

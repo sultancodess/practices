@@ -1,6 +1,6 @@
 # Practice Code Repository
 
-This repository contains my practice code for exploring and improving programming skills in various areas. It includes code snippets, small projects, and problem-solving attempts that I work on regularly.
+This repository contains my practice code for exploring and improving programming skills in various areas. It includes code snippets, small projects
 
 ---
 
